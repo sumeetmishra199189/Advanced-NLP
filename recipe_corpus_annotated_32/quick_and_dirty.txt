@@ -1,4 +1,0 @@
-veal O
-coil B-OTH
-wires O
-heart O
