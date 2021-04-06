@@ -1,6 +1,4 @@
-# Advanced-NLP
-
-## Assignment-1
+# Assignment-1 (Probability and Information Theory in NLP)
 
 Work thought the introduction chapter in Manning & Schuetze, read Jackendoff and Martin's Intro chapter, consult Krenn & Samuelsson (1997), get an intro to Probability Theory online or from the library, and update your knowledge of Probability Theory for this assignment. If you have questions or issues, come and see me!
 

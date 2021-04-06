@@ -1,5 +1,4 @@
-# Advanced-NLP
-## Assignment-2
+# Assignment-2 (NLP Technologies, Text Annotations, Markov Chains, and PoS-tagging)
 
 This assignment is sort of the course in reverse: we will use NLP tools others have built, so we can get a grasp on:
 
