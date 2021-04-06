@@ -41,6 +41,7 @@ British and American spelling are `rigour' and `rigor', respectively. A man stay
 1	2	3	4	5	6	7	8
 
 1/8	1/16	1/4	1/8	1/16	1/16	1/4	1/16
+
 What is the entropy of this distribution?
 
  
