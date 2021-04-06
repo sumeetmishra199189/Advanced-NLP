@@ -1,0 +1,16 @@
+bayaldy O
+eq O
+sized O
+half O
+spoonful O
+breadcrumbs B-OTH
+peppers B-OTH
+cupful O
+sunflower O
+separate O
+hollow O
+stuff O
+follows O
+stuff O
+moderate O
+garnished O
